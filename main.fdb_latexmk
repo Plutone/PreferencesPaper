@@ -1,5 +1,9 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1542010406 "main.tex" "main.pdf" "main" 1542010407
+=======
+["pdflatex"] 1541951759 "main.tex" "main.pdf" "main" 1542009609
+>>>>>>> d7d842af1f7becc82572baf5fdd7dcd6eb4fe866
   "/etc/texmf/web2c/texmf.cnf" 1455791705 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -103,9 +107,18 @@
   "histogrammi/histogram_tpp_ALL_PERCENTAGE_COST.eps" 1533655037 56944 4a9f831ee97e0cd42e26cd08b1102cac ""
   "histogrammi/histogram_trucks_ALL_PERCENTAGE_COST-eps-converted-to.pdf" 1533655089 16503 e057cca48f37d31617a97a4d8fafe036 ""
   "histogrammi/histogram_trucks_ALL_PERCENTAGE_COST.eps" 1533655037 58629 b11873dd91f59c1f9a6f43cb16e6042c ""
+<<<<<<< HEAD
   "main.aux" 1542010407 1350 efa916d7a50cb05fac82400402196604 ""
   "main.tex" 1542010405 39387 74f41a96b49781833fa2a71596853a21 ""
   (generated)
   "main.pdf"
   "main.aux"
   "main.log"
+=======
+  "main.aux" 1541951759 1350 efa916d7a50cb05fac82400402196604 ""
+  "main.tex" 1541951759 39380 1b1fbb7a7cd6a1bb9c760639a6c0bb36 ""
+  (generated)
+  "main.log"
+  "main.aux"
+  "main.pdf"
+>>>>>>> d7d842af1f7becc82572baf5fdd7dcd6eb4fe866
